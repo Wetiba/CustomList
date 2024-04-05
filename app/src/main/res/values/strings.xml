@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginRegMidMorn</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_intent">IntentActivity</string>
+    <string name="title_activity_simple_list">SimpleListActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_custom_list">CustomListActivity</string>
+</resources>
